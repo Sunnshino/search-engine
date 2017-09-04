@@ -1,6 +1,3 @@
 # search-engine
-about the search-engine optimization.
-关于搜索引擎优化!
-
+about the search-engine optimization
 Covering Google-spider、Baidu-spider、Sougou-spider...
-内容涵盖Google-spider、Baidu-spider、Sougou-spider...
